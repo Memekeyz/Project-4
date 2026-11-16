@@ -1,0 +1,71 @@
+/* Author: Ryan Hong */
+/* Introduction to Web Development: Project 4 */
+/* Tic-Tac-Toe */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(123, 154, 223);
+    margin-top: 30px;
+}
+
+#login {
+    margin-bottom: 20px;
+}
+
+#login input {
+    margin: 5px;
+    padding: 10px;
+}
+
+#login button {
+    padding: 8px 12px
+}
+
+#role {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#status {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#board {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #444;
+    cursor: pointer;
+}
+
+canvas {
+    border: 2px solid #000;
+    background-color:rgb(138, 206, 11);
+    margin-top: 20px;
+}
+
+#status {
+    font-size: 24px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+bottom {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 10px;
+}
